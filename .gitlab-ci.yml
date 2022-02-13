@@ -1,6 +1,6 @@
 deploy-to-vercel:
   stage: deploy
-  image: node:14-alpine
+  image: node:16-alpine
 
   variables:
     PREVIEW_URL: $CI_PROJECT_NAME-$CI_COMMIT_REF_SLUG.$VERCEL_USER.vercel.app

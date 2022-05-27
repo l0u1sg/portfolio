@@ -1,10 +1,10 @@
 {
-  "name": "elrich-bachman",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio templates for devfolio.io",
+  "description": "My own portfolio",
   "main": "index.js",
-  "repository": "https://github.com/Mr-spShuvo/devfolio-templates",
-  "author": "Md. Shahriar Parvez<mr.spshuvo@gmail.com>",
+  "repository": "https://git.louis.software/Louisssss/portfolio",
+  "author": "Louis G <me@louisgallet.ga> and Md. Shahriar Parvez<mr.spshuvo@gmail.com>",
   "license": "MIT",
   "scripts": {
     "watch": "node-sass scss/app.scss styles/app.css -w",

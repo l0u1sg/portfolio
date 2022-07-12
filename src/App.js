@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import { Parallax, ParallaxLayer } from '@react-spring/parallax'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Parallax pages={2}>
+        <ParallaxLayer>
+          <p id="firstPage">Louis Gallet.</p>
+        </ParallaxLayer>
+        <ParallaxLayer offset={1} >
+          <h2>Test</h2>
+        </ParallaxLayer>
+      </Parallax>
     </div>
   );
 }

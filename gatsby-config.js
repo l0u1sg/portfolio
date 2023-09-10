@@ -25,5 +25,13 @@ module.exports = {
         // }
       },
     },
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '3',
+        matomoUrl: 'https://analytics.louisgallet.fr',
+        siteUrl: 'https://louisgallet.fr'
+      }
+    }
   ],
 };

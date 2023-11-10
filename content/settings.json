@@ -20,6 +20,7 @@
     "logo": { "text": "Louis Gallet" },
     "navigation": {
       "header": [
+        { "label": "Hub", "url": "https://hub.louisgallet.fr" },
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "My interests", "url": "/#interests" },
@@ -32,7 +33,8 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Imprint", "url": "/imprint" },
+        { "label": "Hub", "url": "https://hub.louisgallet.fr"}
       ]
     },
     "featureToggles": {

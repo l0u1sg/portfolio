@@ -38,6 +38,23 @@
           "url": "https://gitea.louisgallet.fr"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Application",
+      "title": "HexConverter",
+      "description": "A simple application to convert hexadecimal numbers to decimal numbers. Also, it can convert from any base to any base.",
+      "tags": ["Application"],
+      "image": {
+        "src": "../../images/hex-converter.png",
+        "alt": "HexConverter"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/fr/app/hexconverter/id6471345416"
+        }
+      ]
     }
   ],
   "button": {

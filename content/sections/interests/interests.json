@@ -36,6 +36,13 @@
       }
     },
     {
+      "label": "Swift",
+      "image": {
+        "src": "../../images/swift.png",
+        "alt": "Swift logo"
+      }
+    },
+    {
       "label": "Azure",
       "image": {
         "src": "../../images/azure.png",

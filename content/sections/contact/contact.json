@@ -1,7 +1,7 @@
 {
   "name": "Louis Gallet",
-  "email": "contact@louisgallet.fr",
-  "description": "If you have any project ideas or just want to say hello :)",
+  "email": "me@louisgallet.fr",
+  "description": "If you have any project ideas or just want to say hello :)\n For private contact, please search my public key on https://keyserver.ubuntu.com using this key ID: D4C61677B9CC4C9B.",
   "image": {
     "src": "../../images/louisgallet-square.png",
     "alt": "Gatsby Logo"
